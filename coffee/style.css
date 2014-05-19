@@ -1,0 +1,36 @@
+
+body {
+	background-color: white;
+	font-family: Palatino;
+	font-size: small;
+}
+
+h1 {
+	font-size: ;
+}
+
+h2 {
+	font-size: ;
+	color: #230b03;
+}
+
+nav{
+	background-color: #230b03;
+	color: #a38f74;
+
+}
+
+nav ul li {
+	list-style: none;
+	display: inline;
+}
+
+article{
+
+}
+
+footer{
+	background-color: #230b03;
+	color: #a38f74;
+
+}
